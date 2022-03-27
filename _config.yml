@@ -7,9 +7,9 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: What A Theme
+title: Minji Jeong's Portfolio
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description: Back-end Developer - Experiences of Commerce, POS, Retail Business Industry 
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -18,17 +18,18 @@ site-keywords: Site, Template, Theme
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+# heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+heroimage: /assets/images/main_top_img.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
+email: minji279@gmail.com
+facebook_username: /
+twitter_username: /
+instagram_username: find.me.forward
+linkedin_username: minji-jeong-173235170
+github_username:  minjijeong
+youtube_channel_id: UCMeFZUvoLK4tSdvUxmUfKTA
 reddit_username: /
 behance_username: /
 dribbble_username: /
@@ -37,17 +38,24 @@ spotify_username: /
 # Google Analytics
 google-analytics: UA-163806439-1
 
-# Disqus
-disqus-shortname: thedevslot
+# Disqus 
+# 블로그 댓글 추가 방법 https://devinlife.com/howto%20github%20pages/blog-disqus/
+# https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+disqus-shortname: minjijeong-github-io
 
 # Name of the Author
-author-name: TheDevsLot
-# URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-name: Minji Jeong
+# URL for the Image of the Author //file:///Users/minjijeong/Pictures/Photos%20Library.photoslibrary/resources/renders/5/52D40759-912B-4698-B46E-C96F141D8AC6_1_201_a.jpeg
+author-image: /assets/images/profile_imgs.jpeg
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+#author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+author-about: Java, Spring, oracle, mysql 기반으로 한 back-end 개발자 입니다. <br> 업무 효율성에 대해 생각하고, 그를 위해 의사소통 및 문서, 가이드 작성을 중요하게 생각합니다.
+author-about-short : Java, Spring, oracle, mysql 기반으로 한 back-end 개발자 ...
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: https://github.com/minjijeong
+
+# I use Notion App instead of blog for Tech Study 
+author-tech-url: https://stirring-frown-8f3.notion.site/2d6b342661844f8eb3a09303b3b4a9e9  
 
 # SASS
 sass:
