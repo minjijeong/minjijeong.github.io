@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-03-28T14:48:38+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Minji Jeong’s Portfolio</title><subtitle>Back-end Developer - Experiences of Commerce, POS, Retail Business Industry</subtitle><entry><title type="html">Sample Post</title><link href="http://localhost:4000/blog/sample-post" rel="alternate" type="text/html" title="Sample Post" /><published>2020-04-24T00:00:00+09:00</published><updated>2020-04-24T00:00:00+09:00</updated><id>http://localhost:4000/blog/sample-post</id><content type="html" xml:base="http://localhost:4000/blog/sample-post"><![CDATA[<p>This post will show you how the content will look like in the post pages and how the headlines, quotes and quotes will be represented. Jekyll is mainly used to write simple markdown and after that it renders out a static pages, so you need to know the basics of writing markdown for that.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-03-30T15:27:21+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Minji Jeong’s Portfolio</title><subtitle>Back-end Developer - Experiences of Commerce, POS, Retail Business Industry</subtitle><entry><title type="html">GitHub &amp;amp; Git Tips</title><link href="http://localhost:4000/blog/GIT" rel="alternate" type="text/html" title="GitHub &amp;amp; Git Tips" /><published>2022-03-29T00:00:00+09:00</published><updated>2022-03-29T00:00:00+09:00</updated><id>http://localhost:4000/blog/GIT</id><content type="html" xml:base="http://localhost:4000/blog/GIT"><![CDATA[<h2 id="reference">Reference</h2>
+<ul>
+  <li><a href="https://miracleground.tistory.com/entry/GitHub-%ED%86%A0%ED%81%B0-%EC%9D%B8%EC%A6%9D-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%95%98%EA%B8%B0-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0-remote-Support-for-password-authentication-was-removed-on-August-13-2021-Please-use-a-personal-access-token-instead">Github 토큰 인증 오류 해결하기</a></li>
+  <li><a href="https://www.hahwul.com/2018/08/22/git-credential-helper/">Git credential 저장</a></li>
+</ul>
+
+<hr />
+
+<h1 id="오류-해결-remote-support-for-password-authentication-was-removed-on-august-13-2021-please-use-a-personal-access-token-instead">[오류 해결]: remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.</h1>
+<p>github &gt; settings &gt; Developer settings - Personal access tokens » Generate new token <br />
+<img src="images/github_personalTokenAccess.png" alt="Personal Access Tokens" /> <br /></p>
+
+<ul>
+  <li><a href="https://miracleground.tistory.com/entry/GitHub-%ED%86%A0%ED%81%B0-%EC%9D%B8%EC%A6%9D-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%95%98%EA%B8%B0-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0-remote-Support-for-password-authentication-was-removed-on-August-13-2021-Please-use-a-personal-access-token-instead">Github 토큰 인증 오류 해결하기</a></li>
+</ul>
+
+<h1 id="git-credential-저장">Git credential 저장</h1>
+<blockquote>
+  <p>&gt; git config credential.helper store –global</p>
+</blockquote>]]></content><author><name></name></author><category term="git" /><category term="error" /><category term="authentication" /><summary type="html"><![CDATA[Git policy was changed at 8/13/2021 as using personal access token from local.]]></summary></entry><entry><title type="html">Sample Post</title><link href="http://localhost:4000/blog/sample-post-copy" rel="alternate" type="text/html" title="Sample Post" /><published>2020-04-24T00:00:00+09:00</published><updated>2020-04-24T00:00:00+09:00</updated><id>http://localhost:4000/blog/sample-post%20copy</id><content type="html" xml:base="http://localhost:4000/blog/sample-post-copy"><![CDATA[<p>This post will show you how the content will look like in the post pages and how the headlines, quotes and quotes will be represented. Jekyll is mainly used to write simple markdown and after that it renders out a static pages, so you need to know the basics of writing markdown for that.
 For more information about writing markdown you can checkout the following markdown cheatsheets:</p>
 <ul>
   <li><a href="https://guides.github.com/features/mastering-markdown/">Mastering Markdown</a></li>

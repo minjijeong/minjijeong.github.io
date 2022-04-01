@@ -49,7 +49,8 @@ author-name: Minji Jeong
 author-image: /assets/images/profile_imgs.jpeg
 # 60 Words About the Author
 #author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
-author-about: Java, Spring, oracle, mysql 기반으로 한 back-end 개발자 입니다. <br> 업무 효율성에 대해 생각하고, 그를 위해 의사소통 및 문서, 가이드 작성을 중요하게 생각합니다.
+#author-about: Java, Spring, oracle, mysql 기반으로 한 back-end 개발자 입니다. <br> 업무 효율성에 대해 생각하고, 그를 위해 의사소통 및 문서, 가이드 작성을 중요하게 생각합니다.
+author-about: <font size="+3"><b>Minji Jeong</font></b><br><br><b>Background</b><br><br><li> Java, php, Spring, oracle, mysql를 기반한 프로젝트를 <br> 커머스, POS, 리테일 분야에서 경험한 6년차 back-end 개발자 입니다.<br><br><b>Education</b><br><br><li> 인천대학교 정보통신공학과 졸업<br><br><b>Skills</b><br><br><li> Major Experiences with &#35;JAVA &#35;SPRING &#35;PHP &#35;LINUX &#35;ORACLE &#35;MYSQL &#35;GIT <br> Other Experiences is &#35;LARAVEL &#35;ELK &#35;KIBANA<br><br><b>Interests</b><br><br><li>업무 효율성에 대해 고민하고 의사소통을 어떻게 잘할 것인가를 생각하며 문서, 가이드 작성 등 의사소통 향상을 위한 노력을 합니다.<br> 최종적으로는 좋은 조직문화를 만들고 함께 성장하는 조직에서 일하고 싶습니다.<br><br><br><b><font size="+1">사람들에게 직접적인 도움을 주지 못하지만, 개발이라는 직업을 통해서 사람들에게 도움이 되는 프로그램을 만들고 싶습니다. </font></b><br><br>
 author-about-short : Java, Spring, oracle, mysql 기반으로 한 back-end 개발자 ...
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/minjijeong
@@ -90,7 +91,6 @@ defaults:
       type: 'pages'
     values:
       layout: page
-
 # Exclude
 exclude:
   - .sass-cache/
